@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "https://magicoppk27.github.io/gym--tracker-app/static/css/main.c0272e9a.css",
-    "main.js": "https://magicoppk27.github.io/gym--tracker-app/static/js/main.d5563eb7.js",
+    "main.css": "https://magicoppk27.github.io/gym--tracker-app/static/css/main.54ecb64f.css",
+    "main.js": "https://magicoppk27.github.io/gym--tracker-app/static/js/main.8c11d46b.js",
     "static/js/206.09b8ae50.chunk.js": "https://magicoppk27.github.io/gym--tracker-app/static/js/206.09b8ae50.chunk.js",
     "index.html": "https://magicoppk27.github.io/gym--tracker-app/index.html"
   },
   "entrypoints": [
-    "static/css/main.c0272e9a.css",
-    "static/js/main.d5563eb7.js"
+    "static/css/main.54ecb64f.css",
+    "static/js/main.8c11d46b.js"
   ]
 }
